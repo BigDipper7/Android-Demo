@@ -1,0 +1,21 @@
+cdataBorder=\#ffff00 | null | false | false | false | false
+cdataText=\#80ff00 | null | false | false | false | false
+commentBorder=\#ffff00 | null | false | false | false | false
+commentText=\#ff0080 | null | false | false | false | false
+declBoder=\#ffff00 | null | true | false | false | false
+doctypeExternalId=\#ff8000 | null | false | false | false | false
+doctypeExternalPubref=\#80ffff | null | false | false | false | false
+doctypeName=\#80ffff | null | false | false | false | false
+eclipse.preferences.version=1
+entityReference=\#8080ff | null | false | false | false | false
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+piBorder=\#ffff00 | null | false | false | false | false
+piContent=\#00ff80 | null | false | false | false | false
+tagAttributeEquals=\#ffa275 | \#000000 | true | false | false | false
+tagAttributeName=\#ffff80 | null | true | false | false | false
+tagAttributeValue=\#ff80ff | null | true | true | false | false
+tagBorder=\#ffff37 | null | true | false | false | false
+tagName=\#ff8080 | null | true | false | false | false
+xmlContent=\#80ff80 | null | false | false | false | false
+xml_content_assist_default_page_sort_order=org.eclipse.wst.xml.ui.proposalCategory.xmlTags\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTemplates\u0000
+xml_content_assist_own_page_sort_order=org.eclipse.wst.xml.ui.proposalCategory.xmlTemplates\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTags\u0000
