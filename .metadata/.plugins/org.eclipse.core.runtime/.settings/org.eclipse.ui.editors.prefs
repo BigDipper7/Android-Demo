@@ -1,8 +1,0 @@
-AbstractTextEditor.Color.Background=0,0,0
-AbstractTextEditor.Color.Background.SystemDefault=false
-currentLineColor=87,0,87
-eclipse.preferences.version=1
-lineNumberRuler=true
-occurrenceIndicationColor=113,113,113
-overviewRuler_migration=migrated_3.1
-writeOccurrenceIndicationColor=217,108,0
